@@ -8,9 +8,9 @@ const chalk = require('chalk')
 //contact details
 global.ownernomer = "255697608274"
 global.ownername = "𝐷𝛥𝛮𝛮𝑌"
-global.ownernumber = '255697608274'  //owner number 2
+global.ownernumber = '263719495067'  //owner number 2
 //put your phone number above
-//let the owner as Danny or you can just put your name
+//let the owner as Supreme or you can just put your name
 
 //custom prefix
 global.prefa = [',','!','.','#','&']
